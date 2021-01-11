@@ -1,7 +1,8 @@
 {
-  "name": "ethereumjs-units",
+  "name": "vaporyjs-units",
+  "namespace": "vaporyjs",
   "version": "0.2.0",
-  "description": "Ethereum unit conversion.",
+  "description": "Vapory unit conversion.",
   "main": "index.js",
   "scripts": {
     "coverage": "istanbul cover _mocha",
@@ -12,19 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereumjs/ethereumjs-units.git"
+    "url": "git+https://github.com/vaporyjs/vaporyjs-units.git"
   },
   "keywords": [
-    "ethereum",
+    "vapory",
     "units",
     "conversion"
   ],
   "author": "Alex Beregszaszi <alex@rtfs.hu>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethereumjs/ethereumjs-units/issues"
+    "url": "https://github.com/vaporyjs/vaporyjs-units/issues"
   },
-  "homepage": "https://github.com/ethereumjs/ethereumjs-units#readme",
+  "homepage": "https://github.com/vaporyjs/vaporyjs-units#readme",
   "dependencies": {
     "bignumber.js": "^2.3.0"
   },
